@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: quartzyan/jekyll-theme-minimal
 
 
 text_skin: forest # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
