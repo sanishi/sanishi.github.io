@@ -1,5 +1,5 @@
+theme: jekyll-theme-minimal
 
-theme: jekyll-text-theme # minima
 
 text_skin: forest # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
